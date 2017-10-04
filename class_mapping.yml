@@ -1,0 +1,12 @@
+:AL:
+  :AGENCY_NUMBER: [20994,200883]
+  :EXTERNAL_CLASS_CODES: [2012,2013]
+  :INTERNAL_CLASS_CODES: [2020,2021]
+  :ADDRESS: [{"street":"street1","city":newyork,"zip":02472},{"street":"street2","city":newjersey,"zip":34561}]
+
+:CT:
+  :AGENCY_NUMBER: [20994,200883]
+  :EXTERNAL_CLASS_CODES: [3031,4041]
+  :INTERNAL_CLASS_CODES: [8081,1011]
+  :ADDRESS: [{"street":"311 arsenal street","city":watertown,"zip":02472},{"street":"street2","city":CAMBRIDGE,"zip":02488}]
+
