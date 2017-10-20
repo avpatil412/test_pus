@@ -1,0 +1,31 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    archive-zip (0.7.0)
+      io-like (~> 0.3.0)
+    childprocess (0.8.0)
+      ffi (~> 1.0, >= 1.0.11)
+    ffi (1.9.18)
+    geckodriver-helper (0.0.3)
+      archive-zip (~> 0.7.0)
+    io-like (0.3.0)
+    rubyzip (1.2.1)
+    selenium-webdriver (3.6.0)
+      childprocess (~> 0.5)
+      rubyzip (~> 1.0)
+    watir (6.8.4)
+      selenium-webdriver (~> 3.4, >= 3.4.1)
+    watir-webdriver (0.9.9)
+      selenium-webdriver (>= 2.46.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  geckodriver-helper
+  selenium-webdriver
+  watir
+  watir-webdriver
+
+BUNDLED WITH
+   1.15.4
